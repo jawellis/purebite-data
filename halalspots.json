@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Has Döner",
+    "cuisine": "Turkish",
+     "services": {
+    "dineIn": true,
+    "takeout": true,
+    "delivery": true
+     },
+    "priceRange": "€",
+    "address": "Oostplein 225B, 3063 CE Rotterdam",
+    "coords": { "lat": 51.92292235165282, "lng": 4.498064079193093}, 
+    "openingHours": {
+      "mon": "11:00–22:00",
+      "tue": "11:00–22:00",
+      "wed": "11:00–22:00",
+      "thu": "11:00–22:00",
+      "fri": "11:00–23:00",
+      "sat": "12:00–23:00",
+      "sun": "12:00–22:00"
+    }
+  }
+]
