@@ -17,5 +17,62 @@
     "menu": "https://www.hasdonerkebap.nl/",
     "address": "Oostplein 225B, 3063 CE Rotterdam",
     "coords": { "lat": 51.92292235165282, "lng": 4.498064079193093 }
+  },
+   {
+    "id": "2",
+    "name": "Mezze",
+    "cuisine": "Turkish",
+    "services": "Dine-in, Take-out, Delivery",
+    "priceRange": "€€",
+    "openingHours": {
+      "mon": "16:00–22:00",
+      "tue": "Closed",
+      "wed": "16:00–22:00",
+      "thu": "16:00–22:00",
+      "fri": "16:00–23:00",
+      "sat": "16:00–23:00",
+      "sun": "16:00–22:00"
+    },
+    "menu": "https://mezzerotterdam.com/wp-content/uploads/2023/05/menukaart-Mezze04.pdf",
+    "address": "Oostzeedijk Beneden 217A, 3061 VT Rotterdam",
+    "coords": { "lat": 51.923042235476174, "lng": 4.500462668955562 }
+  },
+  {
+    "id": "3",
+    "name": "Gangnam Korean BBQ",
+    "cuisine": "Korean",
+    "services": "Dine-in, Take-out, Delivery",
+    "priceRange": "€€€",
+    "openingHours": {
+      "mon": "16:30–22:00",
+      "tue": "16:30–22:00",
+      "wed": "16:30–22:00",
+      "thu": "16:30–22:00",
+      "fri": "15:30–22:00",
+      "sat": "15:30–22:00",
+      "sun": "15:30–22:00"
+    },
+    "menu": "https://www.gangnam-kbbq.nl/ons-menu/",
+    "address": "Groenendaal 45F, 3011 SM Rotterdam",
+    "coords": { "lat": 51.922298767168826, "lng": 4.494457571149994 }
+  },
+    {
+    "id": "4",
+    "name": "Yemeni",
+    "cuisine": "Yemeni",
+    "services": "Dine-in",
+    "priceRange": "€€",
+    "openingHours": {
+      "mon": "13:00–22:00",
+      "tue": "13:00–22:00",
+      "wed": "13:00–22:00",
+      "thu": "13:00–22:00",
+      "fri": "13:00–22:00",
+      "sat": "13:00–22:00",
+      "sun": "13:00–22:00"
+    },
+    "menu": "https://yemenirestaurant.nl/rotterdam-menu/",
+    "address": "Oosterkade 119, 3011 TV Rotterdam",
+    "coords": { "lat": 51.919064346804745, "lng": 4.496731986478881 }
   }
 ]
