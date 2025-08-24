@@ -57,7 +57,7 @@
     "coords": { "lat": 51.922298767168826, "lng": 4.494457571149994 }
   },
     {
-    "id": "4",
+    "id": "5",
     "name": "Yemeni",
     "cuisine": "Yemeni",
     "services": "Dine-in",
@@ -74,5 +74,62 @@
     "menu": "https://yemenirestaurant.nl/rotterdam-menu/",
     "address": "Oosterkade 119, 3011 TV Rotterdam",
     "coords": { "lat": 51.919064346804745, "lng": 4.496731986478881 }
+  },
+  {
+    "id": "5",
+    "name": "Helai",
+    "cuisine": "Afghan",
+    "services": "Dine-in",
+    "priceRange": "€€",
+    "openingHours": {
+      "mon": "13:00–22:00",
+      "tue": "13:00–22:00",
+      "wed": "13:00–22:00",
+      "thu": "13:00–22:00",
+      "fri": "13:00–22:00",
+      "sat": "13:00–22:00",
+      "sun": "13:00–22:00"
+    },
+    "menu": "https://www.helai.nl/menu",
+    "address": "Piet Smitkade 160, 3077 MJ Rotterdam",
+    "coords": { "lat": 51.89720428277453, "lng": 4.52758208437931 }
+  },
+  {
+    "id": "6",
+    "name": "Ortam",
+    "cuisine": "BBQ",
+    "services": "Dine-in",
+    "priceRange": "€€",
+    "openingHours": {
+      "mon": "13:00–22:00",
+      "tue": "13:00–22:00",
+      "wed": "13:00–22:00",
+      "thu": "13:00–22:00",
+      "fri": "13:00–22:00",
+      "sat": "13:00–22:00",
+      "sun": "13:00–22:00"
+    },
+    "menu": "https://ortambbq.nl/wp-content/uploads/2025/07/ORTAM-BBQ-MENU-KAART.pdf",
+    "address": "Piet Smitkade 160, 3077 MJ Rotterdam",
+    "coords": { "lat": 51.89731741219997, "lng": 4.520905421718398 },
+  },
+  {
+    "id": "7",
+    "name": "Maruki",
+    "cuisine": "Japanese BBQ",
+    "services": "Dine-in",
+    "priceRange": "€€",
+    "openingHours": {
+      "mon": "13:00–22:00",
+      "tue": "13:00–22:00",
+      "wed": "13:00–22:00",
+      "thu": "13:00–22:00",
+      "fri": "13:00–22:00",
+      "sat": "13:00–22:00",
+      "sun": "13:00–22:00"
+    },
+    "menu": "https://ortambbq.nl/wp-content/uploads/2025/07/ORTAM-BBQ-MENU-KAART.pdf",
+    "address": "Binnenrotte 119, 3011 HB Rotterdam",
+    "coords": { "lat": 51.92270757271705, "lng": 4.484971953538605 },
   }
 ]
