@@ -111,7 +111,7 @@
     },
     "menu": "https://ortambbq.nl/wp-content/uploads/2025/07/ORTAM-BBQ-MENU-KAART.pdf",
     "address": "Piet Smitkade 160, 3077 MJ Rotterdam",
-    "coords": { "lat": 51.89731741219997, "lng": 4.520905421718398 },
+    "coords": { "lat": 51.89731741219997, "lng": 4.520905421718398 }
   },
   {
     "id": "7",
@@ -130,6 +130,6 @@
     },
     "menu": "https://ortambbq.nl/wp-content/uploads/2025/07/ORTAM-BBQ-MENU-KAART.pdf",
     "address": "Binnenrotte 119, 3011 HB Rotterdam",
-    "coords": { "lat": 51.92270757271705, "lng": 4.484971953538605 },
+    "coords": { "lat": 51.92270757271705, "lng": 4.484971953538605 }
   }
 ]
